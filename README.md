@@ -41,6 +41,10 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
+# for migation
+$ npm run typeorm:migration:generate name_of_migration
+$ npm run typeorm:migration:run
+
 # production mode
 $ npm run start:prod
 ```
