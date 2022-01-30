@@ -32,6 +32,15 @@
 $ npm install
 ```
 
+## Provide database config in ```.env```
+```
+POSTGRES_HOST=127.0.0.1
+POSTGRES_PORT=5432
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=admin
+POSTGRES_DATABASE=nest_pg
+```
+
 ## Running the app
 
 ```bash
